@@ -1,4 +1,4 @@
-# Bank-Management
+# Bank-Management-System
 The provided C++ code implements a comprehensive banking system that manages customer accounts, passwords, and various banking operations. It consists of classes for a Binary Search Tree (BST) and a Hashtable, each serving a specific purpose in the banking application.
 
 Binary Search Tree (BST):
